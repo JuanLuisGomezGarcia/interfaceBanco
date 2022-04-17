@@ -1,0 +1,13 @@
+C:\Users\Atenea\source\repos\practica\practica\bin\Debug\practica.exe.config
+C:\Users\Atenea\source\repos\practica\practica\bin\Debug\practica.exe
+C:\Users\Atenea\source\repos\practica\practica\bin\Debug\practica.pdb
+C:\Users\Atenea\source\repos\practica\practica\obj\Debug\practica.csproj.AssemblyReference.cache
+C:\Users\Atenea\source\repos\practica\practica\obj\Debug\practica.Inicio.resources
+C:\Users\Atenea\source\repos\practica\practica\obj\Debug\practica.Prestamo.resources
+C:\Users\Atenea\source\repos\practica\practica\obj\Debug\practica.Properties.Resources.resources
+C:\Users\Atenea\source\repos\practica\practica\obj\Debug\practica.csproj.GenerateResource.cache
+C:\Users\Atenea\source\repos\practica\practica\obj\Debug\practica.csproj.CoreCompileInputs.cache
+C:\Users\Atenea\source\repos\practica\practica\obj\Debug\practica.exe
+C:\Users\Atenea\source\repos\practica\practica\obj\Debug\practica.pdb
+C:\Users\Atenea\source\repos\practica\practica\bin\Debug\Vuelos.dll
+C:\Users\Atenea\source\repos\practica\practica\obj\Debug\practica.csproj.CopyComplete
